@@ -7,3 +7,12 @@ D:\Projects\Visual Studio\Creator XML\Creator XML\obj\Debug\Creator_XML.Properti
 D:\Projects\Visual Studio\Creator XML\Creator XML\obj\Debug\Creator XML.csproj.GenerateResource.Cache
 D:\Projects\Visual Studio\Creator XML\Creator XML\obj\Debug\Creator XML.exe
 D:\Projects\Visual Studio\Creator XML\Creator XML\obj\Debug\Creator XML.pdb
+D:\Projects\Visual Studio\Creator-XML\Creator XML\bin\Debug\Creator XML.exe.config
+D:\Projects\Visual Studio\Creator-XML\Creator XML\obj\Debug\Creator XML.exe
+D:\Projects\Visual Studio\Creator-XML\Creator XML\obj\Debug\Creator XML.pdb
+D:\Projects\Visual Studio\Creator-XML\Creator XML\obj\Debug\Creator XML.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\Creator-XML\Creator XML\obj\Debug\Creator_XML.Form1.resources
+D:\Projects\Visual Studio\Creator-XML\Creator XML\obj\Debug\Creator_XML.Properties.Resources.resources
+D:\Projects\Visual Studio\Creator-XML\Creator XML\obj\Debug\Creator XML.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\Creator-XML\Creator XML\bin\Debug\Creator XML.exe
+D:\Projects\Visual Studio\Creator-XML\Creator XML\bin\Debug\Creator XML.pdb
