@@ -124,6 +124,8 @@ namespace Creator_XML
         {
             if (openFileDialog1.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
+                lbx_article.Items.Clear();
+                lbx_quantity.Items.Clear();
                 filePath = openFileDialog1.FileName;
                 lbl_filePath.Text = filePath;
                 btn_save.Enabled = true;
