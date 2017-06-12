@@ -97,7 +97,7 @@ namespace Creator_XML
                 string savePath = saveFileDialog1.FileName + ".xml";
 
                 write = File.CreateText(savePath);
-                write.Write("<?xml version=\"1.0\"?>" + "<Comfurn>" + "<Version>1</Version>" + "<Copyright>2005 - ValWeb</Copyright>" + "<Id>25425</Id>" + "<Nr>25425</Nr>" + "<Data>20.12.2016</Data>");
+                write.Write("<?xml version=\"1.0\"?>" + "<Comfurn>" + "<Version>1</Version>" + "<Copyright>2005 - ValWeb</Copyright>" + "<Id></Id>" + "<Nr></Nr>" + "<Data>20.12.2016</Data>");
                 int numberOfItems = lbx_article.Items.Count;
 
                 for (int x = 0; x < numberOfItems; x++)
